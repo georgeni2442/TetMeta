@@ -1,9 +1,12 @@
 ---
-title: "index"
+title: "Test Webpage"
 author: "George Ni"
-date: "2023-01-19"
-output: html_document
+date: "2/3/2021"
+output:
+  html_document: default
+  pdf_document: default
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
