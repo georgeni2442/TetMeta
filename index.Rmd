@@ -7,7 +7,7 @@ output:
   pdf_document: default
 ---
 
-![](~/OneDrive/Documents/R/TetMeta/images/Axlotl.jpg)
+![image](~/OneDrive/Documents/R/TetMeta/images/Axlotl.jpg)
 
 
 
